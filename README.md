@@ -1,1 +1,3 @@
-simple socket.io chat room 
+Simple socket.io chat room 
+
+This is a nodejs application
